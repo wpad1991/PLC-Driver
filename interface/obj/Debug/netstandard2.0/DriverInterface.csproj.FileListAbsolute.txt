@@ -1,0 +1,13 @@
+E:\이력서용 프로젝트\driver\interface\bin\Debug\netstandard2.0\Generated\AlarmEventForm.json
+E:\이력서용 프로젝트\driver\interface\bin\Debug\netstandard2.0\Generated\DriverStatus.json
+E:\이력서용 프로젝트\driver\interface\bin\Debug\netstandard2.0\Generated\InitDriverInfoToWeb.json
+E:\이력서용 프로젝트\driver\interface\bin\Debug\netstandard2.0\DriverInterface.deps.json
+E:\이력서용 프로젝트\driver\interface\bin\Debug\netstandard2.0\DriverInterface.dll
+E:\이력서용 프로젝트\driver\interface\bin\Debug\netstandard2.0\DriverInterface.pdb
+E:\이력서용 프로젝트\driver\interface\obj\Debug\netstandard2.0\DriverInterface.csproj.AssemblyReference.cache
+E:\이력서용 프로젝트\driver\interface\obj\Debug\netstandard2.0\DriverInterface.GeneratedMSBuildEditorConfig.editorconfig
+E:\이력서용 프로젝트\driver\interface\obj\Debug\netstandard2.0\DriverInterface.AssemblyInfoInputs.cache
+E:\이력서용 프로젝트\driver\interface\obj\Debug\netstandard2.0\DriverInterface.AssemblyInfo.cs
+E:\이력서용 프로젝트\driver\interface\obj\Debug\netstandard2.0\DriverInterface.csproj.CoreCompileInputs.cache
+E:\이력서용 프로젝트\driver\interface\obj\Debug\netstandard2.0\DriverInterface.dll
+E:\이력서용 프로젝트\driver\interface\obj\Debug\netstandard2.0\DriverInterface.pdb

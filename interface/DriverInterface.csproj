@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Generated\AlarmEventForm.json" />
+    <None Remove="Generated\DriverStatus.json" />
+    <None Remove="Generated\InitDriverInfoToWeb.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="Generated\AlarmEventForm.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Generated\DriverStatus.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Generated\InitDriverInfoToWeb.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+</Project>

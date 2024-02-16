@@ -1,0 +1,30 @@
+{
+  "Project": {
+    "Driver": [],
+    "Scheduler": [],
+    "Simulator": [],
+    "Logger": [],
+    "Agent": [],
+    "Config": {
+      "OPCServer": {
+        "IpAddress": "",
+        "Port": "",
+        "Auth": ""
+      },
+      "HostServer": {
+        "IpAddress": "",
+        "Port": ""
+      }
+    },
+    "Settings": {
+      "Driver": true,
+      "Alarm": false,
+      "Scheduler": false,
+      "Logger": false,
+      "Simulator": false,
+      "Agent": false,
+      "Database": false,
+      "Remote": false
+    }
+  }
+}

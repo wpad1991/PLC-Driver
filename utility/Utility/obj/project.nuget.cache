@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "vJV21xrKmVAreZxLBVWmNJXNcbwD56sGfaPu5sZzUKItNYpN27xI0IzQwB4d577cbz3Sc51afshBEcuqQtUB3w==",
+  "success": true,
+  "projectFilePath": "E:\\이력서용 프로젝트\\driver\\utility\\Utility\\DriverUtility.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jskim\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\jskim\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\jskim\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "'Newtonsoft.Json' 12.0.3 패키지에 알려진 높음 심각도 취약성인 https://github.com/advisories/GHSA-5crp-9r3c-p9vr이(가) 있습니다.",
+      "libraryId": "Newtonsoft.Json",
+      "targetGraphs": [
+        ".NETStandard,Version=v2.0"
+      ]
+    }
+  ]
+}

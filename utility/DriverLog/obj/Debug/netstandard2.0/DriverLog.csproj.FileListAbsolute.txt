@@ -1,0 +1,10 @@
+E:\이력서용 프로젝트\driver\utility\DriverLog\bin\Debug\netstandard2.0\DriverLog.deps.json
+E:\이력서용 프로젝트\driver\utility\DriverLog\bin\Debug\netstandard2.0\DriverLog.dll
+E:\이력서용 프로젝트\driver\utility\DriverLog\bin\Debug\netstandard2.0\DriverLog.pdb
+E:\이력서용 프로젝트\driver\utility\DriverLog\obj\Debug\netstandard2.0\DriverLog.csproj.AssemblyReference.cache
+E:\이력서용 프로젝트\driver\utility\DriverLog\obj\Debug\netstandard2.0\DriverLog.GeneratedMSBuildEditorConfig.editorconfig
+E:\이력서용 프로젝트\driver\utility\DriverLog\obj\Debug\netstandard2.0\DriverLog.AssemblyInfoInputs.cache
+E:\이력서용 프로젝트\driver\utility\DriverLog\obj\Debug\netstandard2.0\DriverLog.AssemblyInfo.cs
+E:\이력서용 프로젝트\driver\utility\DriverLog\obj\Debug\netstandard2.0\DriverLog.csproj.CoreCompileInputs.cache
+E:\이력서용 프로젝트\driver\utility\DriverLog\obj\Debug\netstandard2.0\DriverLog.dll
+E:\이력서용 프로젝트\driver\utility\DriverLog\obj\Debug\netstandard2.0\DriverLog.pdb

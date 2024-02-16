@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\interface\IronInterface.csproj" />
+    <ProjectReference Include="..\..\..\utility\Utility\IronUtility.csproj" />
+  </ItemGroup>
+
+  <Target Name="PostBuild" AfterTargets="PostBuildEvent">
+    <Exec Command="COPY /y &quot;$(TargetDir)$(TargetName).dll&quot; &quot;$(SolutionDir)&quot;&#xD;&#xA;COPY /y &quot;$(TargetDir)$(TargetName).pdb&quot; &quot;$(SolutionDir)&quot;&#xD;&#xA;&#xD;&#xA;COPY /y &quot;$(TargetDir)$(TargetName).dll&quot; &quot;$(SolutionDir)..\..\..\bin\Driver&quot;&#xD;&#xA;COPY /y &quot;$(TargetDir)$(TargetName).pdb&quot; &quot;$(SolutionDir)..\..\..\bin\Driver&quot;" />
+  </Target>
+
+</Project>

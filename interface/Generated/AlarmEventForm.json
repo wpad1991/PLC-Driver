@@ -1,0 +1,54 @@
+{
+  "Alarm": [
+    {
+      "Area": {
+        "Id": "A01",
+        "Desc": "Heat Cam",
+        "Event": [
+          {
+            "Id": "AlarmEvent1",
+            "Desc": "Busbar Cam FOV",
+            "SourceDriver": "GEM",
+            "SourceTag": "T01",
+            "Condition": "HI_HI",
+            "Active": true,
+            "DeadbandType": "Absolute",
+            "DeadbandValue": "100",
+            "DeadbandRangeMin": "",
+            "DeadbandRangeMax": "",
+            "Serverity": "1",
+            "Message": "OK",
+            "ThresholdType": "Tag",
+            "Threshold": 10,
+            "ThresholdTag": "T02",
+            "Comparison": "(Source - Tag) > Threshold",
+            "AckRequired": true,
+            "EventType": "Condition",
+            "EventCategory": "Deviation"
+          },
+          {
+            "Id": "AlarmEvent2",
+            "Desc": "Busbar Cam MAX",
+            "SourceDriver": "GEM",
+            "SourceTag": "T01",
+            "Condition": "HI",
+            "Active": true,
+            "DeadbandType": "Percent",
+            "DeadbandValue": "100",
+            "DeadbandRangeMin": "0",
+            "DeadbandRangeMax": "1000",
+            "Serverity": "1",
+            "Message": "OK",
+            "ThresholdType": "Tag",
+            "Threshold": 10,
+            "ThresholdTag": "T02",
+            "Comparison": "(Source - Tag) > Threshold",
+            "AckRequired": true,
+            "EventType": "Simple",
+            "EventCategory": "Batch Status"
+          }
+        ]
+      }
+    }
+  ]
+}
